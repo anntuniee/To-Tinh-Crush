@@ -1,19 +1,20 @@
 const CONFIG = {
-    introTitle: 'Tên người yêu bạn à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    introTitle: 'Anh Hùng ơi :3',
+    introDesc: `Đêm dài thêm với những nhớ nhung ban chiều
+Khi người chợt ghé đến khiến em mơ mộng
+Anh gì ơi anh đánh rơi người yêu này
+Chẳng biết có gặp lại anh không ?`,
+    btnIntro: 'gặp lại em nhé',
+    title: 'Em với anh quen nhau đi? 😙',
+    desc: 'Trời sinh voi, trời sinh cỏ
+Em là cà rốt, anh là con thỏ ',
+    btnYes: 'Anh sẽ cưới em <3',
+    btnNo: 'Hong em mơ à',
+    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại chọn emmmmm <3',
+    btnReply: 'Gửi tình yêu của anh cho em <3',
+    reply: 'Vì hơn 7 tỉ người ngoài kia, em là đẹp nhứttt',
+    mess: 'Ỏ ài lớp duuu',
+    messDesc: '<3',
+    btnAccept: 'Anh la cua em',
+    messLink: 'http://m.me/100070137937983 
+
